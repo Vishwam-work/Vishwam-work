@@ -7,6 +7,7 @@ Python Developer and Machine Learning Enthusiast
 Meet Vishwam Solanki, a skilled Python and Django developer with experience in machine learning and web development. His projects include a car price prediction system, a house price prediction system, and a digital music studio using SQL. Vishwam is a recent graduate of Jodhpur Institute of Engineering and Technology in Jodhpur, India, and is eager to put his skills to work.
 
 * 🌍  I'm based in India
+* 🏢  My company [Company](www.vsinfosoft.com)
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/vishwam-solanki-30nov/)
 * ✉️  You can contact me at [vishwamsol@gmail.com](mailto:vishwamsol@gmail.com)
 * 🧠  I'm learning NodeJs,Machine learning Algo, Flask and many new tools
